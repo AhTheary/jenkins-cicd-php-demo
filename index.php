@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Helsadscdsco world from PHP! Declara!hhhhhhhhhhhhh</p>'; ?> 
+ <?php echo '<p>Helsadscdsco world from PHP! Declara!</p>'; ?> 
  </body>
 </html>
