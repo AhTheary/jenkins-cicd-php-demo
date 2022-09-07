@@ -1,8 +1,10 @@
+ <!DOCTYPE html>
 <html>
- <head>
-  <title>Index</title>
- </head>
- <body>
- <?php echo '<p>Helsadscdsco world from Declara!</p>'; ?> 
- </body>
-</html>
+<body>
+
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html> 
