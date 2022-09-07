@@ -16,13 +16,6 @@
         echo "<br/>";
     ?>
     
-    <?php
-        $var = "value";
-        echo $var;
-        $var = 1;
-        echo ++$var;
-        $var += 3;
-        echo $var;
-    ?>
+
 </body>
 </html>
